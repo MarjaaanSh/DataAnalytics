@@ -10,7 +10,7 @@ Using the [YouTube Channel Performance Analytics Dataset from Kaggle](https://ww
 
 ## Key Resources  
 - **Interactive Dashboard**: An overview of essential metrics through the years using [YouTube Channel Analytics Dashboard on Tableau Public](https://public.tableau.com/app/profile/marjan.shahi/viz/ContentCreatorDashboards/YoutubeChannelAnalytics).  
-- **Full Blog Post**: For a detailed analysis, check out my [Medium blog post](<Insert-Medium-Link-Here>).  
+- **Full Blog Post**: For a detailed analysis, check out my [Medium blog post](https://medium.com/@marjan.shahi71/how-much-do-youtubers-really-earn-a-deep-dive-into-youtube-channel-analytics-d8bdb412f1c0).  
 
 ## Repository Contents  
 - `report.pdf`: A concise summary of the analysis and findings.  
